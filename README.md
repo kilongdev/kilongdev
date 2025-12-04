@@ -49,7 +49,7 @@ const currentActivities = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 📝 **[SSB-Tracking](https://github.com/kilongdev/SSB-Tracking)** | Web quản lý xe bus đón trả học sinh | React · JS · Tailwind |
-| 🛒 **[Project Name](https://github.com/kilongdev/your-project)** | E-commerce dashboard with analytics | Next.js · Redux · Chart.js |
+| 🛒 **[BaSan_TMDT](https://github.com/HoL0ngg/b-s-n-TM-T)** | E-commerce dashboard with analytics | Next.js · Redux · Chart.js |
 
 ---
 
