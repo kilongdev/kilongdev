@@ -44,21 +44,6 @@ const currentActivities = {
 };
 ```
 
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kilongdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kilongdev&theme=tokyonight&hide_border=true&background=1A1B27&ring=BF91F3&fire=70A5FD&currStreakLabel=38BDF8" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilongdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDF8" />
-</p>
-
----
-
 ## 🎨 Featured Projects
 
 | Project | Description | Tech Stack |
