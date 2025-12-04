@@ -4,7 +4,7 @@
 ---
 ```javascript
 const developer = {
-  name: "Your Name",
+  name: "Kim Long",
   role: "Frontend Developer",
   location: "Vietnam 🇻🇳",
   specialties: ["React", "TypeScript", "Tailwind CSS"],
