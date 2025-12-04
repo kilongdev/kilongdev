@@ -63,7 +63,7 @@ const currentActivities = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎬 **[Project Name](#)** | Modern movie streaming platform | React · TS · Tailwind |
+| 🎬 **[(https://github.com/kilongdev/SSB-Tracking)](#)** | Modern movie streaming platform | React · TS · Tailwind |
 | 🛒 **[Project Name](#)** | E-commerce dashboard with analytics | Next.js · Redux · Chart.js |
 | 📝 **[Project Name](#)** | Real-time collaborative editor | React · Socket.io · Monaco |
 
